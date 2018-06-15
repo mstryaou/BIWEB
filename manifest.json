@@ -1,0 +1,71 @@
+{
+  "main": {
+     "JavaWebAPI.jar": {
+      "repository": "BIWEB",
+      "version": "11.0.0.18100",
+      "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    },
+    "WebApp.jar": {
+      "repository": "BIWEB",
+      "version": "11.0.0.18100",
+      "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    },
+    "WebAppBeans.jar": {
+      "repository": "BIWEB",
+      "version": "11.0.0.18100",
+      "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    },
+    "WebAppTransforms.jar": {
+      "repository": "BIWEB",
+      "version": "11.0.0.18100",
+      "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    },
+    "WebBeans.jar": {
+      "repository": "BIWEB",
+      "version": "11.0.0.18100",
+      "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    },
+    "WebBlocks.jar": {
+      "repository": "BIWEB",
+      "version": "11.0.0.18100",
+      "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    },
+    "WebObjects.jar": {
+      "repository": "BIWEB",
+      "version": "11.0.0.18100",
+      "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    },
+    "WebPlatform.jar": {
+      "repository": "BIWEB",
+      "version": "11.0.0.18100",
+      "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    },
+    "WebTags.jar": {
+      "repository": "BIWEB",
+      "version": "11.0.0.18100",
+      "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    },
+    "WebTasks.jar": {
+      "repository": "BIWEB",
+      "version": "11.0.0.18100",
+      "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    },
+    "WebTransform.jar": {
+      "repository": "BIWEB",
+      "version": "11.0.0.18100",
+      "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    },
+    "WebUtils.jar": {
+      "repository": "BIWEB",
+      "version": "11.0.0.18100",
+      "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    },
+    "WebXMLUtils.jar": {
+      "repository": "BIWEB",
+      "version": "11.0.0.18100",
+      "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    }
+  },
+  "dependencies": {
+  }
+}
