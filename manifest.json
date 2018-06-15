@@ -64,6 +64,11 @@
       "repository": "BIWEB",
       "version": "11.0.0.18100",
       "commit_hash": "8fe4c66f9f94699e1624929484fb01126209454e"
+    },
+    "mstr-consul.jar": {
+      "repository": "mstr-consul",
+      "version": "11.0.0.182",
+      "commit_hash": "fa201e491e5cdf03636b61f9f2a6dd9fc4bc62a0"
     }
   },
   "dependencies": {
